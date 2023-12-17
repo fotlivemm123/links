@@ -29,6 +29,24 @@
     "link": "https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1702813069-0-0-23b5fd4960b46d92d87a650d21e53db2",
     "farri": "",
     "agent": ""
+  },
+  {
+    "name": "hd",
+    "link": "https://pull.niues.live/live/stream-115447_lhd.m3u8?auth_key=1702813009-0-0-872cf548e4195fb375cf73f8bd055cf7",
+    "farri": "",
+    "agent": ""
+  },
+  {
+    "name": "fhd",
+    "link": "https://pull.niues.live/live/stream-115447_lhd.m3u8?auth_key=1702813009-0-0-872cf548e4195fb375cf73f8bd055cf7",
+    "farri": "",
+    "agent": ""
+  },
+  {
+    "name": "1080p",
+    "link": "https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1702813069-0-0-23b5fd4960b46d92d87a650d21e53db2",
+    "farri": "",
+    "agent": ""
   }
 
   
